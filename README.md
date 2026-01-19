@@ -98,7 +98,7 @@ A fork is another way to copy a repository, but is most commonly used when contr
 
 Read more about forking [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-## 📝 Optional next steps 
+## 📝 Next steps 
 
 * Open a pull request and let your teacher know that you’ve finished this course.  
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!

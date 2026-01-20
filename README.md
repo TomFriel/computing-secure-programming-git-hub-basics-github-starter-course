@@ -1,3 +1,7 @@
+## This is a basic git hub starter project. Read the information below to learn more about how to use Git Hub.
+## To complete this practive assignment, clone this project add a file with your name on it and push it back to the repo.
+## See tutorials in class for more help.
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8W7qkYj0)
 # :wave: The Basics of GitHub 
 
